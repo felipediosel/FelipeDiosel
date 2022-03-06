@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 - 👯 I am looking to collaborate with projects focused on web development
 - 🤔 I am looking for help with mobile development with React Native
 - 💬 Ask me about something related to web development
-- 📫 How to reach me: felipe.diosel@gmail.com
 
 <!--
+- 📫 How to reach me: felipe.diosel@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
