@@ -34,10 +34,10 @@ src="https://img.shields.io/github/followers/felipediosel?logo=github&style=for-
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Badges
+### Stats
 
-<b>My GitHub Stats</b>
-
+<p align="left">
 <a href="http://www.github.com/felipediosel"><img src="https://github-readme-stats.vercel.app/api?username=felipediosel&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="felipediosel's GitHub stats" /></a>
 
 <a href="http://www.github.com/felipediosel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=felipediosel&stroke=ffffff&background=22272e&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
