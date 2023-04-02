@@ -1,7 +1,7 @@
 Hi 👋 My name is Felipe Diosel
 ==============================
 
-Software Analyst / Full Stack Dev
+Software Engenieer | Software Analyst | NodeJS | React | React Native | Firebase | Javascript | Typescript
 ---------------------------------
 
 I am completing 10 years of experience in web development. During that time I went through several challenges, and now I decided to face the biggest of them! Transform myself as a person, opening my mind to knowledge and new technologies.
