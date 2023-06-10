@@ -1,10 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Felipe Diosel
-=====================================================================================================================================
+Hi 👋 My name is Felipe Diosel
+==============================
 
 Software Engenieer
 ------------------
 
-Experienced software engineer with a decade of coding expertise. Strong problem-solving skills and adaptability to emerging technologies.
+Experienced software engineer with a decade of coding expertise. <br>
+Strong problem-solving skills and adaptability to emerging technologies.
 
 *   🌍  I'm based in Brazil
 *   🖥️  See my portfolio at [here](http://github.com/felipediosel?tab=repositories)
