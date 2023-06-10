@@ -17,7 +17,7 @@ Strong problem-solving skills and adaptability to emerging technologies.
 <a href="https://www.github.com/felipediosel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/felipediosel?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
 
-### Skills 
+### Some skills 
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
