@@ -9,8 +9,8 @@ I am completing 10 years of experience in web development. During that time I we
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [My Repository](http://github.com/felipediosel?tab=repositories)
 * ✉️  You can contact me at [felipe.diosel@gmail.com](mailto:felipe.diosel@gmail.com)
-* 🚀  I'm currently working on [IPM Sistemas](http://www.ipm.com.br)
-* 🧠  I'm learning React and React Native
+* 🚀  I'm currently working on [Omnismart](https://omnismart.com.br/)
+* 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on projects focused on web and mobile development
 * ⚡  Don't stop!
 
